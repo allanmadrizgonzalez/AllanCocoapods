@@ -1,0 +1,16 @@
+PODS:
+  - AllanCocoapods (0.1.0)
+
+DEPENDENCIES:
+  - AllanCocoapods (from `../`)
+
+EXTERNAL SOURCES:
+  AllanCocoapods:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AllanCocoapods: f1885a6a9e3bb645ea9811009e4539cdfaf03be9
+
+PODFILE CHECKSUM: dfe5b205a1b2116afd9fd1a23b8a4c1afdc5a265
+
+COCOAPODS: 1.10.1

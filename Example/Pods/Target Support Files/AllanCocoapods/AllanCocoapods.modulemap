@@ -1,0 +1,6 @@
+framework module AllanCocoapods {
+  umbrella header "AllanCocoapods-umbrella.h"
+
+  export *
+  module * { export * }
+}
